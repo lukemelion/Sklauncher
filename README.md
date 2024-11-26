@@ -19,5 +19,5 @@ press enter, then type
 and press enter again and you should install sk
 you can also open a folder in terminal and type
 ```markdown
-git clone 
+git clone https://github.com/lukemelion/Sklauncher.git
 ``` 
