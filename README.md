@@ -20,4 +20,7 @@ and press enter again and you should install sk
 you can also open a folder in terminal and type
 ```markdown
 git clone https://github.com/lukemelion/Sklauncher.git
-``` 
+```
+# instructions for Windows(Win10)
+double click the setup&run.bat file and wait for the launcher to load
+![image](image.jpg)
